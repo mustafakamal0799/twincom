@@ -70,4 +70,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Jalankan perintah berikut di terminal:
 
 ```bash
-git clone https://github.com/mustafakamal0799/twincom
+git clone https://github.com/mustafakamal0799/twincom.git
